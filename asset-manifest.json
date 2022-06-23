@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/useEffect_with_return_routers_practice/static/css/main.4460e70f.css",
+    "main.js": "/useEffect_with_return_routers_practice/static/js/main.9be0ee78.js",
+    "static/js/787.c72c6569.chunk.js": "/useEffect_with_return_routers_practice/static/js/787.c72c6569.chunk.js",
+    "index.html": "/useEffect_with_return_routers_practice/index.html",
+    "main.4460e70f.css.map": "/useEffect_with_return_routers_practice/static/css/main.4460e70f.css.map",
+    "main.9be0ee78.js.map": "/useEffect_with_return_routers_practice/static/js/main.9be0ee78.js.map",
+    "787.c72c6569.chunk.js.map": "/useEffect_with_return_routers_practice/static/js/787.c72c6569.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4460e70f.css",
+    "static/js/main.9be0ee78.js"
+  ]
+}
